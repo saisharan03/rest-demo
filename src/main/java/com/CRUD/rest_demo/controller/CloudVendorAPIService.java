@@ -32,6 +32,6 @@ public class CloudVendorAPIService {
     public String deleteCloudVendorDetails(String vendorId)
     {
         this.cloudVendor = null;
-        return "Cloud vendor deleted sucessfully";
+        return "Cloud vendor sucessfully deleted";
     }
 }
